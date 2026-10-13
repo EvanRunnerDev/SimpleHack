@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "name": "SimpleHack",
+  "id": "simplehack",
+  "version": "26.2-local",
+  "description": "Fork of Meteor and Baritone",
+  "authors": [
+    "EvanRunner"
+  ],
+  "contact": {
+    "homepage": "https://github.com/Jacob-Hegy/SimpleHack",
+    "issues": "https://github.com/Jacob-Hegy/SimpleHack/issues",
+    "sources": "https://github.com/Jacob-Hegy/SimpleHack"
+  },
+  "license": "GPL-3.0",
+  "icon": "assets/simplehack/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "meteordevelopment.meteorclient.MeteorClient"
+    ],
+    "modmenu": [
+      "meteordevelopment.meteorclient.modintegration.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "meteor-client.mixins.json",
+    "meteor-client-baritone.mixins.json",
+    "meteor-client-indigo.mixins.json",
+    "meteor-client-sodium.mixins.json",
+    "meteor-client-lithium.mixins.json",
+    "meteor-client-viafabricplus.mixins.json",
+    "mixins.baritone-meteor.json"
+  ],
+  "accessWidener": "meteor-client.classtweaker",
+  "custom": {
+    "simplehack:build_number": "",
+    "simplehack:color": "0,120,255",
+    "simplehack:commit": "",
+    "modmenu": {
+      "links": {
+        "modmenu.discord": "https://meteorclient.com/discord"
+      }
+    },
+    "badoptimizations:cache_hooks": {
+      "lightmap": "meteordevelopment.meteorclient.modintegration.BadOptimizationsHook"
+    }
+  },
+  "depends": {
+    "java": ">=25",
+    "minecraft": "~26.2",
+    "fabricloader": ">=0.19.3"
+  },
+  "breaks": {
+    "optifabric": "*",
+    "feather": "*",
+    "origins": "*",
+    "sodium": "<0.9.1",
+    "morechathistory": "*",
+    "lithium": "<0.22.1"
+  }
+}

@@ -1,0 +1,480 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Copy Meteor Client Java source tree into workspace": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666146746
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666151700
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667051624
+      }
+    ],
+    "1.2 Copy Meteor Client resources into workspace": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666147677
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667053566
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667191387
+      }
+    ],
+    "1.3 Copy the launcher source set": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666147742
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667193413
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667253290
+      }
+    ],
+    "1.4 Copy the Gradle wrapper and version catalog": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666147794
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667255198
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667280679
+      }
+    ],
+    "1.5 Remove Baritone entries from `gradle/libs.versions.toml`": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666147844
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667282781
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667300240
+      }
+    ],
+    "1.6 Copy the Meteor Client LICENSE file": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666147909
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667302049
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667335482
+      }
+    ],
+    "2.1 Create `settings.gradle.kts`": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666147982
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667337737
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667354422
+      }
+    ],
+    "2.2 Create `gradle.properties`": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666148028
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667356473
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667369574
+      }
+    ],
+    "2.3 Create `build.gradle.kts` — plugin block and base config": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666148073
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667372057
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667761444
+      }
+    ],
+    "2.4 Add `AddonConfig` data class and `addonRegistry` map to `build.gradle.kts`": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666148115
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667763602
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667765615
+      }
+    ],
+    "2.5 Add `addons` property parsing logic to `build.gradle.kts`": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666148164
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667767763
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667769812
+      }
+    ],
+    "2.6 Add repositories block to `build.gradle.kts`": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666148202
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667773106
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667775308
+      }
+    ],
+    "2.7 Add `modInclude`, `jij`, and `launcher` configurations/source sets to `build.gradle.kts`": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666148244
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667777593
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667779714
+      }
+    ],
+    "2.8 Add conditional Baritone source set to `build.gradle.kts`": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666148286
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667781929
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667783966
+      }
+    ],
+    "2.9 Add `dependencies` block to `build.gradle.kts`": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666148329
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667786093
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667788013
+      }
+    ],
+    "2.10 Add `java` toolchain block and jij transitive-dependency handling to `build.gradle.kts`": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666148372
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667790153
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667792297
+      }
+    ],
+    "2.11 Add `loom` configuration block to `build.gradle.kts`": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666148416
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667794269
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667796264
+      }
+    ],
+    "2.12 Add `toMinecraftCompat` helper function to `build.gradle.kts`": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666148458
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667798436
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667800608
+      }
+    ],
+    "2.13 Add `tasks` block to `build.gradle.kts`": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666148502
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667802542
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667805647
+      }
+    ],
+    "2.14 Add `publishing` block to `build.gradle.kts`": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666148548
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667807600
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667809669
+      }
+    ],
+    "3.1 Update `fabric.mod.json` — id, name, and color": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666148591
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667812192
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667832775
+      }
+    ],
+    "3.2 Update `fabric.mod.json` — replace `mixins` array with template token": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666148636
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667834928
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667837019
+      }
+    ],
+    "3.3 Update `fabric.mod.json` — contact URLs": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666148687
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667838979
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791667841063
+      }
+    ],
+    "3.4 Update `MeteorClient.java` — change `MOD_ID` constant to `\"simplehack\"`": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666148735
+      }
+    ],
+    "4.1 Apply all 23 color changes to `MeteorGuiTheme.java`": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666148781
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791668228668
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791669604777
+      }
+    ],
+    "5.1 Copy Baritone LICENSE to `src/main/resources/baritone-LICENSE`": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666148829
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791669607024
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791669628933
+      }
+    ],
+    "6.1 Pre-build Baritone (one-time step)": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666148901
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791669631477
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791672984158
+      }
+    ],
+    "6.2 Build SimpleHack with `-Paddons=all` (default)": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666148944
+      },
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791672986348
+      }
+    ],
+    "6.3 Build SimpleHack with `-Paddons=none`": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666148987
+      }
+    ],
+    "6.4 Build SimpleHack with `-Paddons=baritone`": [
+      {
+        "executionId": "b2b8969e-8c9c-48e8-9f5b-897cfe8d37f9",
+        "chatSessionId": "sess_63705012-b825-49b9-b737-f41f27dc4b73",
+        "timestamp": 1791666149032
+      }
+    ]
+  }
+}
